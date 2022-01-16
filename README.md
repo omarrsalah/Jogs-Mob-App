@@ -1,2 +1,4 @@
-# Jogs-Mob-App
-Jogs Store Mobile Application - Mobile Project   PS : This is a new repo , the old one had problems with the team members
+# Jogs---Mobile-Application
+Mobile Device Programming Project , JOGS
+Jogs is an online fashion store that sells anything related to nowadays fashion including hoodies,sneakers,jackets,pants,tracksuits and accessories 
+This is the jogs mobile application to make it easier for people to order from their home.

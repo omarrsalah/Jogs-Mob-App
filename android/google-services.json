@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531045155561",
+    "project_id": "jogs-mobile",
+    "storage_bucket": "jogs-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531045155561:android:a2767f256bbe54be3ba678",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531045155561-ib79v5h0clsv8t2e84qvhdrau19ejtqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU44CwchSvnjIyx8fYvwOrVNJUbCTu6xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531045155561-ib79v5h0clsv8t2e84qvhdrau19ejtqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
